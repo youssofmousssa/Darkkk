@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+httpx
+pyjwt
+cryptography
+passlib
+redis
+pydantic
+python-multipart
+aiobreaker
+prometheus-client
+python-dotenv
+gunicorn
+pytest
+pytest-asyncio
+requests
